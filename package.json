@@ -1,14 +1,12 @@
 {
   "name": "leetcode",
   "version": "1.0.0",
-  "description": "Solutions for top leetcode questions for job interview",
+  "description": "Solutions for top leetcode questions for job interview in Javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aishwary Vishwakarma",
   "license": "MIT",
-  "dependencies": {
-    "node": "^21.6.1"
-  }
+  "dependencies": {}
 }
